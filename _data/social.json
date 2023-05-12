@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/garden-archipelago",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/gardenarchipelago",
+    "image": "images/social/twitter.svg"
+  }
+]
