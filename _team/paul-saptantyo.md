@@ -1,7 +1,7 @@
 ---
 title: "Paul Saptantyo"
 date: 2023-05-15T10:47:58+10:00
-image: ""
+image: "images/team/paul.jpg"
 jobtitle: "Program Coordinator"
 linkedinurl: "" 
 promoted: true
