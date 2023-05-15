@@ -8,5 +8,5 @@ promoted: true
 weight: 2
 ---
 
-Previously Co-International Director for Asia at Eden Projects. Dani is returning to the country where he was born, Indonesia, to continue his lifelong work on community development and reforestation. Prior to joining Eden Projects, Dani served as the Community Partnerships Specialist for the Papua Hope Language Institute. Dani has a Bachelors of Science in Sustainable Community Development from Toccoa Falls College.
+Daniel Maxey is a dedicated advocate for sustainable community development, with a wealth of experience in environmental conservation and social justice. For two years, he worked closely with the Eden Reforestation Projects as Co-Regional Director to Asia, overseeing teams and projects across Indonesia, the Philippines, and Nepal. 
 
