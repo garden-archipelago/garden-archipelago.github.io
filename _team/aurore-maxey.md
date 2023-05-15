@@ -8,4 +8,4 @@ promoted: true
 weight: 1 
 ---
 
-Previously Co-International Director for Asia at Eden Projects. Aurore is happy to return to her home in Biak after previously working as an instructor at the Papuan Hope Language Institute. She has a Masters in Foreign Languages and Literature from La Rochelle Université. 
+Aurore Maxey is a dedicated advocate for the environment and local communities in Indonesia. With almost two years of experience as Co-Regional Director to Asia with the Eden Reforestation Projects, Aurore has played a critical role in advancing the mission of restoration in Indonesia. She also oversees and manages teams across Eden Reforestation Projects in Nepal and the Philippines and has helped with national project budgets from creation to approval.
