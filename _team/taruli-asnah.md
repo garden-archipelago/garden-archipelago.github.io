@@ -1,7 +1,7 @@
 ---
 title: "Taruli Asnah"
 date: 2023-05-15T10:47:58+10:00
-image: ""
+image: "images/team/taruli.jpg"
 jobtitle: "Accounting and Administrative Manager"
 linkedinurl: "" 
 promoted: true
