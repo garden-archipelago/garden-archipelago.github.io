@@ -1,6 +1,6 @@
 ---
 title: Support 
-layout: services
+layout: page
 description: Support 
 intro_image: "images/mangrove-drone-crop.jpg"
 intro_image_absolute: true
