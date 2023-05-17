@@ -2,28 +2,13 @@
   {
     "title": "Join our Team",
     "description": "Be a part of reforestation initiatives in Indonesia.",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
   },
   {
     "title": "Become a Sponsor",
     "description": "Provide the financial backing for creating new jobs and restoring the environment.",
-    "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
   },
   {
     "title": "Follow Along",
     "description": "Stay up to date on the latest restoration initiatives in Indonesia",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
-    }
   }
 ]
