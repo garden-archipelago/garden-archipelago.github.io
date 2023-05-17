@@ -13,6 +13,9 @@ In 2017, we began working to restore mangrove forests in the Saireri region of P
 
 In 2023 we moved out from under the management of Eden Reforestation Projects to foster a more locally-driven restoration initiative with a plan to expand projects to other islands across the country. 
 
+![Mangrove Forest](/images/mangrove-forest.jpg)
+
+
 # Where
 
 Currently, Garden Archipelago is based in Biak Numfor regency in the province of Papua, eastern Indonesia. The foundation has operated in Supiori, Yapen, Seram, and other islands with plans to launch projects in the Maluku region. 
